@@ -1,0 +1,31 @@
+}
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Kb-placer 3000",
+    "description": "Temporary fix by Izumi-No",
+    "description_full": "Temporary fix by Izumi-No",
+    "identifier": "com.github.glassybridge.tempfixforkb",
+    "type": "plugin",
+    "author": {
+        "name": "KiCad User",
+        "contact": {
+            "web": "https://mywebsite.com"
+        }
+    },
+    "maintainer": {
+        "name": "Glassybridge",
+        "contact": {
+            "web": "https://mywebsite.com"
+        }
+    },
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://github.com/GlassyBridge/kicad-kbplacer"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "testing",
+            "kicad_version": "8.0",
+        }
+    ]
+}
