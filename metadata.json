@@ -1,4 +1,4 @@
-}
+{
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "Kb-placer 3000",
     "description": "Temporary fix by Izumi-No",
